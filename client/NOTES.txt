@@ -1,0 +1,2 @@
+Packages :-
+> npx create-next-app .
