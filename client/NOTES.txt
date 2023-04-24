@@ -1,2 +1,3 @@
 Packages :-
 > npx create-next-app .
+> npm install react-icons --save
