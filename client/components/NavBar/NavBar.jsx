@@ -108,7 +108,7 @@ const NavBar = () => {
           {/* HELPCENTER MENU */}
           <div className={Style.navbar_container_right_help}>
             <p onClick={(e) => openMenu(e)}>
-              Help Center
+              HelpCenter
             </p>
             {help && (
               <div className={Style.navbar_container_right_help_box}>
