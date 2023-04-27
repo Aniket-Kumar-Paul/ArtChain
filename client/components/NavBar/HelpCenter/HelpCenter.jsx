@@ -6,6 +6,7 @@ import Style from "./HelpCenter.module.css"
 
 
 const HelpCenter = () => {
+  // DUMMY DATA FOR HELP CENTER NAVIGATION MENU 
   const helpCenter = [
     {
       name: "About",
